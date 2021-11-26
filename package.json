@@ -1,0 +1,27 @@
+{
+    "name": "bot-template",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "ts-node ./src/index.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nosaria-Mc/Bot-Template.git"
+    },
+    "keywords": [],
+    "author": "Oximov",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Nosaria-Mc/Bot-Template/issues"
+    },
+    "homepage": "https://github.com/Nosaria-Mc/Bot-Template#readme",
+    "dependencies": {
+        "discord.js": "^13.3.1",
+        "dotenv": "^10.0.0",
+        "mysql2": "^2.3.3",
+        "ts-node": "^10.4.0",
+        "typescript": "^4.4.4"
+    }
+}
